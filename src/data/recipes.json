@@ -1,0 +1,179 @@
+{
+    "grilled_cheese": {
+      "id": 1,
+      "index": "grilled_cheese",
+      "name": "Grilled Cheese",
+      "image_src": "images/grilled-cheese.jpeg",
+      "total_time": "15min",
+      "is_favorite": true,
+      "serving": 1,
+      "description": "For a super crisp and delicious grilled cheese sandwich every time, simply brush the outside of bread with Hellmann's Mayonnaise and grill!",
+      "ingredients": [
+        "1 tablespoon Hellmann's® or Best Foods® Real Mayonnaise", 
+        "2 slices crusty Italian bread",
+        "2 (1 ounce) slices white Cheddar cheese"
+      ],
+      "steps": [
+        {
+          "step_num": 1,
+          "time": "5min",
+          "instruction": "SPREAD one slice of bread with Hellmann's® or Best Foods® Real Mayonnaise. Place bread Mayonnaise-side-down into hot skillet; add cheese."
+        },
+        {
+          "step_num": 2,
+          "time": "5min",
+          "instruction": "SPREAD other slice of bread with Mayonnaise and place Mayonnaise-side-up on top of cheese."
+        },
+        {
+          "step_num": 3,
+          "time": "5min",
+          "instruction": "COOK until lightly browned on one side. Flip over and cook until cheese is melted."
+        }
+      ]
+    },
+    "spaghetti": {
+      "id": 2,
+      "index": "spaghetti",
+      "name": "Spaghetti",
+      "image_src": "images/spaghetti.jpeg",
+      "total_time": "25min",
+      "is_favorite": false,
+      "serving": 6,
+      "description": "",
+      "ingredients": [
+        "1 pound spaghetti", 
+        "2 pounds lean ground beef",
+        "1 onion, minced",
+        "1 (6 ounce) can tomato paste",
+        "2 (10.75 ounce) cans condensed tomato soup",
+        "2 ½ cups water"
+      ],
+      "steps": [
+        {
+          "step_num": 1,
+          "time": "8-10min",
+          "instruction": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain."
+        },
+        {
+          "step_num": 2,
+          "time": "5-15min",
+          "instruction": "In a large skillet over medium heat, cook ground beef with onion until meat is brown. Drain. Return meat mixture to pan with tomato paste, tomato soup and water. Cook, stirring, until heated through and thickened, 5 to 15 minutes. Serve over cooked pasta."
+        }
+      ]
+    },
+    "cheese_burger": {
+      "id": 3,
+      "index": "cheese_burger",
+      "name": "Cheese Burger",
+      "image_src": "images/cheese_burger.jpeg",
+      "total_time": "2h25min",
+      "is_favorite": false,
+      "serving": 12,
+      "description": "Hamburgers? Yes. But basic fare? Definitely not! What a treat they are, and the wise cook will make up a dozen or so for the freezer. If you like blue cheese, you'll never forget these burgers.",
+      "ingredients": [
+        "3 pounds lean ground beef", 
+        "4 ounces blue cheese, crumbled",
+        "½ cup minced fresh chives",
+        "¼ teaspoon hot pepper sauce",
+        "1 teaspoon Worcestershire sauce",
+        "1 teaspoon coarsely ground black pepper",
+        "1 ½ teaspoons salt",
+        "1 teaspoon dry mustard",
+        "12 French rolls or hamburger buns"
+      ],
+      "steps": [
+        {
+          "step_num": 1,
+          "time": "2h",
+          "instruction": "In a large bowl, mix the ground beef, blue cheese, chives, hot pepper sauce, Worcestershire sauce, black pepper, salt, and mustard. Cover, and refrigerate for 2 hours."
+        },
+        {
+          "step_num": 2,
+          "time": "15min",
+          "instruction": "Preheat grill for high heat. Gently form the burger mixture into about 12 patties."
+        },
+        {
+          "step_num": 3,
+          "time": "10min",
+          "instruction": "Oil the grill grate. Grill patties 5 minutes per side, or until well done. Serve on rolls."
+        }
+      ]
+    },
+    "tomato_soup": {
+      "id": 4,
+      "index": "tomato_soup",
+      "name": "Tomato Soup",
+      "image_src": "images/tomato_soup.jpeg",
+      "total_time": "35min",
+      "is_favorite": true,
+      "serving": 6,
+      "description": "A quick and easy recipe for real homemade tomato soup like no other you've had before.",
+      "ingredients": [
+        "4 cups chopped fresh tomatoes", 
+        "1 slice onion",
+        "4 whole cloves",
+        "2 cups chicken broth",
+        "2 tablespoons butter",
+        "2 tablespoons all-purpose flour",
+        "1 teaspoon salt",
+        "2 teaspoons white sugar, or to taste"
+      ],
+      "steps": [
+        {
+          "step_num": 1,
+          "time": "20min",
+          "instruction": "In a stockpot, over medium heat, combine the tomatoes, onion, cloves and chicken broth. Bring to a boil, and gently boil for about 20 minutes to blend all of the flavors. Remove from heat and run the mixture through a food mill into a large bowl, or pan. Discard any stuff left over in the food mill."
+        },
+        {
+          "step_num": 2,
+          "time": "15min",
+          "instruction": "In the now empty stockpot, melt the butter over medium heat. Stir in the flour to make a roux, cooking until the roux is a medium brown. Gradually whisk in a bit of the tomato mixture, so that no lumps form, then stir in the rest. Season with sugar and salt, and adjust to taste."
+        }
+      ]
+    },
+    "mac_and_cheese": {
+      "id": 5,
+      "index": "mac_and_cheese",
+      "name": "Mac and Cheese",
+      "image_src": "images/mac-cheese.jpg",
+      "total_time": "30min",
+      "is_favorite": true,
+      "serving": 4,
+      "description": "Simple mac-n-cheese.",
+      "ingredients": [
+        "1 ½ cups elbow macaroni", 
+        "½ cup cauliflower florets",
+        "cooking spray",
+        "1 tablespoon olive oil",
+        "1 tablespoon all-purpose flour",
+        "½ cup milk",
+        "1 ½ cups shredded Cheddar cheese",
+        "½ (8 ounce) package cream cheese",
+        "½ teaspoon salt",
+        "⅛ teaspoon ground black pepper"
+      ],
+      "steps": [
+        {
+          "step_num": 1,
+          "time": "8min",
+          "instruction": "Bring a large pot of lightly salted water to a boil. Cook elbow macaroni in the boiling water, stirring occasionally until tender yet firm to the bite, 8 minutes. Drain."
+        },
+        {
+          "step_num": 2,
+          "time": "5-6min",
+          "instruction": "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil. Add cauliflower, cover, and steam until tender, 5 to 6 minutes. Place cauliflower in a blender or food processor; blend until smooth."
+        },
+        {
+          "step_num": 3,
+          "time": "4-6min",
+          "instruction": "Coat a large saucepan with non-stick cooking spray; place over medium heat. Add oil and flour; cook, stirring constantly, until a thick paste forms, 1 to 2 minutes. Add milk; cook and stir until mixture thickens, 3 to 4 minutes."
+        },
+        {
+          "step_num": 4,
+          "time": "5min",
+          "instruction": "Mix cauliflower, Cheddar cheese, cream cheese, salt, and pepper into milk mixture; stir until sauce is smooth. Fold macaroni into sauce."
+        }
+      ]
+    }
+   
+}
